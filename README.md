@@ -4,3 +4,5 @@ Arturo Panesso, estudiante de Ingenieria de Sistemas 5to semestre.
 Conocimiento decente de lenguajes de programación como <b>C++, Go y Javascript</b>
 Actualmente aprendo <b>Java</b>.
 Fuerte comprensión del paradigma de POO y comprensión decente de las estructuras de datos.
+## Descripción del proyecto
+Un software que permita conectar y hacer consultas especificas de una base de datos en Oracle. El software debe estar escrito en lenguaje C++ mediante la librería <occi.h>
